@@ -1,0 +1,31 @@
+﻿sku;produto;categoria;preco_base
+LEG-101;Legging Modelo 1;Legging;89.9
+LEG-102;Legging Modelo 2;Legging;89.9
+LEG-103;Legging Modelo 3;Legging;89.9
+LEG-104;Legging Modelo 4;Legging;89.9
+LEG-105;Legging Modelo 5;Legging;89.9
+TOP-101;Top Modelo 1;Top;45.0
+TOP-102;Top Modelo 2;Top;45.0
+TOP-103;Top Modelo 3;Top;45.0
+TOP-104;Top Modelo 4;Top;45.0
+TOP-105;Top Modelo 5;Top;45.0
+SHO-101;Shorts Modelo 1;Shorts;59.9
+SHO-102;Shorts Modelo 2;Shorts;59.9
+SHO-103;Shorts Modelo 3;Shorts;59.9
+SHO-104;Shorts Modelo 4;Shorts;59.9
+SHO-105;Shorts Modelo 5;Shorts;59.9
+CAM-101;Camiseta Dry-Fit Modelo 1;Camiseta Dry-Fit;69.9
+CAM-102;Camiseta Dry-Fit Modelo 2;Camiseta Dry-Fit;69.9
+CAM-103;Camiseta Dry-Fit Modelo 3;Camiseta Dry-Fit;69.9
+CAM-104;Camiseta Dry-Fit Modelo 4;Camiseta Dry-Fit;69.9
+CAM-105;Camiseta Dry-Fit Modelo 5;Camiseta Dry-Fit;69.9
+AGA-101;Agasalho Modelo 1;Agasalho;189.0
+AGA-102;Agasalho Modelo 2;Agasalho;189.0
+AGA-103;Agasalho Modelo 3;Agasalho;189.0
+AGA-104;Agasalho Modelo 4;Agasalho;189.0
+AGA-105;Agasalho Modelo 5;Agasalho;189.0
+ACE-101;Acessórios Modelo 1;Acessórios;25.0
+ACE-102;Acessórios Modelo 2;Acessórios;25.0
+ACE-103;Acessórios Modelo 3;Acessórios;25.0
+ACE-104;Acessórios Modelo 4;Acessórios;25.0
+ACE-105;Acessórios Modelo 5;Acessórios;25.0
